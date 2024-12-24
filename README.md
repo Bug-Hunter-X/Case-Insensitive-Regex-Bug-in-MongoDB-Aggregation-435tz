@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using regular expressions in MongoDB aggregation pipelines. The issue arises from the incorrect application or interpretation of the case-insensitive flag.  The provided code illustrates the flawed approach and demonstrates how to correctly implement case-insensitive regex matching.
